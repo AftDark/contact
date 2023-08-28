@@ -1,0 +1,47 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for header */
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+/* Styling for navigation */
+nav {
+    background-color: #eee;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 1rem;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Styling for sections */
+section {
+    padding: 2rem;
+}
+
+/* Styling for footer */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
